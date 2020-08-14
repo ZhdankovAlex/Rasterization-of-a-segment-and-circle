@@ -1,0 +1,9 @@
+C:\Users\jdank\source\repos\laba4\laba4\bin\Debug\laba4.exe.config
+C:\Users\jdank\source\repos\laba4\laba4\bin\Debug\laba4.exe
+C:\Users\jdank\source\repos\laba4\laba4\bin\Debug\laba4.pdb
+C:\Users\jdank\source\repos\laba4\laba4\obj\Debug\laba4.csprojAssemblyReference.cache
+C:\Users\jdank\source\repos\laba4\laba4\obj\Debug\laba4.Form1.resources
+C:\Users\jdank\source\repos\laba4\laba4\obj\Debug\laba4.Properties.Resources.resources
+C:\Users\jdank\source\repos\laba4\laba4\obj\Debug\laba4.csproj.GenerateResource.cache
+C:\Users\jdank\source\repos\laba4\laba4\obj\Debug\laba4.exe
+C:\Users\jdank\source\repos\laba4\laba4\obj\Debug\laba4.pdb
